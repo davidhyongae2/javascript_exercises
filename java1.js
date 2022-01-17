@@ -20,11 +20,11 @@ for (let element=0; element<10; element++) {
     }
 
 
-//how you make it add odds?
+//how would you make it add odds?
 for (let element=0; element<10; element++) {
 
     }
-//how you make it all even?
+//how would you make it all even?
 for (let element=0; element<10; element++) {
 
     }
