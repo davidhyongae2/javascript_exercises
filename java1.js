@@ -20,7 +20,7 @@ for (let element=0; element<10; element++) {
     }
 
 
-//how would you make it add odds?
+//how would you make it all odds?
 for (let element=0; element<10; element++) {
 
     }
