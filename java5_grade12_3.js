@@ -16,7 +16,6 @@ function num(a) {
 //chemistry formula of the day grade 12
 //this is incorrect.
 for (let element=0; element<=4; element++) {
-	// think why starts at 83
    	console.log("answer:",numerator(element),num(degree))
     //	console.log("answer:",numerator(element))
 
