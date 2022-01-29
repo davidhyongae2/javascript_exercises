@@ -1,24 +1,18 @@
 function numerator(a){
-  let c = math.inv(a);
+  let c = 1/a
   return c;
 }
 
 function num(a) {
-  for (let ele = 0; ele<=4; ele++) {
-	   for ( let ele2 = 0 ; ele2<=4; ele2++) {
-		d = numerator(ele,ele2)
+  for (let ele = 0; ele<=a; ele++) {
+		d = ele
 		}
-	}
   return d;
 }
 
-
 //chemistry formula of the day grade 12
-//this is incorrect.
-for (let element=0; element<=4; element++) {
-   	console.log("answer:",numerator(element),num(degree))
-    //	console.log("answer:",numerator(element))
-
-	//	}	
-    }
-
+//var element = [ 1, 2, 3, 4, 5, 6, 7]
+//console.log("answer:",numerator(element));
+for (let element = 1 ; element<=10; element++) {
+	console.log("answer integer",num(element),"answer inverse",numerator(element));
+	}
