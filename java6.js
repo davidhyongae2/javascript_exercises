@@ -1,0 +1,18 @@
+function conversionC(x){
+  let c = (x-3)*(x+3);
+  return c;
+}
+
+function conversionT(c) {
+  let d = Math.tan(c)
+  return d;
+}
+
+//formula of the day grade 8
+for (let element=0; element<=1; element++) {
+ 	// think why it stops at 3.
+	for ( let x=0; x<=3;x++) { 
+	console.log("quadratic answer:",);
+	console.log("radian:",conversionT(x));
+		}	
+    }
