@@ -1,3 +1,5 @@
+//Copyright © 2022 david gae all right reserved
+
 function conversionC(x){
   let c = (x-3)*(x+3);
   return c;
