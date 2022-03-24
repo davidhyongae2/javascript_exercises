@@ -1,3 +1,5 @@
+//Copyright © 2022 david gae all right reserved
+
 function graph(a){
   //radian
   let c = Math.random(a);
