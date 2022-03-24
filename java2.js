@@ -1,3 +1,5 @@
+//Copyright © 2022 david gae all right reserved
+
 function generateRandom(maxLimit = 100){
   let rand = Math.random() * maxLimit;
   //onsole.log(rand); //
