@@ -1,3 +1,5 @@
+//Copyright © 2022 david gae all right reserved
+
 function conA(f){
   let c = f/2;
   return c;
