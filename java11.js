@@ -1,3 +1,5 @@
+//Copyright © 2022 david gae all right reserved
+
 function trapezoid(maxLimit){
   var b = 5;
   var L = 5;
