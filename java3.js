@@ -1,3 +1,5 @@
+//Copyright © 2022 david gae all right reserved
+
 function conversionC(f){
   let c = 5/9*(f-32);
   //rand = float(rand); // 99
