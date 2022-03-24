@@ -1,3 +1,5 @@
+//Copyright © 2022 david gae all right reserved
+
 function circle(maxLimit){
   //buffer
   var b = 5;
