@@ -1,3 +1,5 @@
+//Copyright © 2022 david gae all right reserved
+
 function num(f){
   let c = (f+3)*(f-3);
   //rand = float(rand); // 99
