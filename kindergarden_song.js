@@ -1,3 +1,5 @@
+//Copyright © 2022 david gae all right reserved
+
 var sortAlphabets = function(text) {
     return text.split('').sort().join('');
 };
