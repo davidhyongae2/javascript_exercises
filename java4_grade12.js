@@ -1,3 +1,5 @@
+//Copyright © 2022 david gae all right reserved
+
 function numerator(a){
   let c = Math.random(a);
   return c;
