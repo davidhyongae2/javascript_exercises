@@ -1,4 +1,4 @@
-//Copyright © 2022 david gae all right reserved
+//Copyright © 2022 david gae some right reserved
 
 function numerator(a){
   let c = 1/a
