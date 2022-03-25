@@ -1,4 +1,4 @@
-//Copyright © 2022 david gae all right reserved
+//Copyright © 2022 david gae some right reserved
 
 //right distance
 function obja(a){
