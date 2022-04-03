@@ -1,3 +1,5 @@
+//Copyright © 2022 david gae some right reserved
+
 function gen(maxLimit = 100){
   const rand = Math.random()*maxLimit; 
   //var rand = Math.random()*maxLimit;
