@@ -1,3 +1,4 @@
+//Copyright © 2022 david gae some right reserved
 // fibonacci recursion
 function fibonacci(num) {
     if(num < 2) {
