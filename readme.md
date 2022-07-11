@@ -1,9 +1,9 @@
-### Topics from "Go Math, Middle School Grade 6th, or 7th or 8th" 	California Go Math! Middle School Grade 8 Teacher Edition.
+###Topics from "Go Math, Middle School Grade 6th, or 7th or 8th" 	California Go Math! Middle School Grade 8 Teacher Edition.
 
 Citation: California Common Core Content Standards copyright © 2011
           Copyright © 2015 by Houghton Mifflin Harcourt, 
           Author: Edward B. Burger
-##### My own Java Coding Exercises based on grade 6th-12th book.
+#####My own Java Coding Exercises based on grade 6th-12th book.
 Copyright © 2022 David H. Gae some right reserved
 
 
