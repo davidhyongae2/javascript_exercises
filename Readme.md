@@ -23,7 +23,7 @@ Citation: </br> California Common Core Content Standards copyright © 2011 </br>
 ##### Fibonacci recursion, pythagorean theorem, percentages, for fun: alphabet 
 
 
-####E.g.
+#### e.g.
 
 ![Figure 1](https://github.com/davidhyongae2/javascript_exercises/blob/main/Figure1.png) <br>
 
