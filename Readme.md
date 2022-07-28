@@ -10,7 +10,7 @@
 ##### Alegbra I, numbers, variables, constants, expresion, quadratic equations, algebraic expressions, exponential and log functions, 
 ##### Geometry, conversion radian to degree, factors
 ##### Fibonacci recursion, pythagorean theorem, percentages, for fun: alphabet 
-copyright © 2022 David H. Gae some right reserved <br>
+         copyright © 2022 David H. Gae some right reserved <br>
 
 
 #### e.g.
