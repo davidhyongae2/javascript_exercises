@@ -4,8 +4,8 @@ Citation: </br> California Common Core Content Standards copyright © 2011 </br>
          copyright © 2015 by Houghton Mifflin Harcourt </br>
          Author: Edward B. Burger </br>
 
-#### My own Java Coding Exercises based on a grade 6th-12th book.
-copyright © 2022 David H. Gae some right reserved </br>
+#### My own Java Coding Exercises based on a grade 6th-12th book <br>
+copyright © 2022 David H. Gae some right reserved <br>
 
 
 ##### Fundemental concepts from addition, substration, division,remainder, percentages.
