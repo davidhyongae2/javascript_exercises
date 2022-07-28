@@ -5,23 +5,16 @@ Citation: </br> California Common Core Content Standards copyright © 2011 </br>
          Author: Edward B. Burger </br>
 
 #### My own Java Coding Exercises based on a grade 6th-12th book <br>
+##### Fundemental concepts from addition, substration, division,remainder, percentages.
+##### Order of operations: (), (x*y) or (x/y), +,-,
+##### Integers, properties of even and odd.
+##### Alegbra I, numbers, variables, constants, expresion, quadratic equations, algebraic expressions, exponential and log functions, 
+##### Geometry, conversion radian to degree, factors
+##### Fibonacci recursion, pythagorean theorem, percentages, for fun: alphabet 
 copyright © 2022 David H. Gae some right reserved <br>
 
 
-##### Fundemental concepts from addition, substration, division,remainder, percentages.
 
-
-##### Order of operations: (), (x*y) or (x/y), +,-,/
-
-
-##### Integers, properties of even and odd.
-
-
-##### Alegbra I, numbers, variables, constants, expresion, quadratic equations, algebraic expressions, exponential and log functions, 
-
-##### Geometry, conversion radian to degree, factors
-
-##### Fibonacci recursion, pythagorean theorem, percentages, for fun: alphabet 
 
 
 #### e.g.
