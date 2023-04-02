@@ -1,4 +1,3 @@
-//Copyright © 2022 david gae some right reserved
 
 function graph(a){
   //radian
