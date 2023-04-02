@@ -1,4 +1,3 @@
-//Copyright © 2022 david gae some right reserved
 
 function num(f){
   let c = (f+3)*(f-3);
