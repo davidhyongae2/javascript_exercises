@@ -1,4 +1,3 @@
-//Copyright © 2022 david gae some right reserved
 
 function conversionC(f){
   let c = 5/9*(f-32);
