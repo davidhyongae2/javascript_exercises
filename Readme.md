@@ -1,6 +1,6 @@
-         California Common Core Content Standards copyright © 2011 </br>
-         copyright © 2015 by Houghton Mifflin Harcourt </br>
-         Author: Edward B. Burger </br>
+         California Common Core Content Standards copyright © 2011 
+         copyright © 2015 by Houghton Mifflin Harcourt 
+         Author: Edward B. Burger 
 
          Fundemental concepts from addition, substration, division,remainder, percentages.
          Order of operations: (), (x*y) or (x/y), +,-,
