@@ -10,7 +10,7 @@ function new2(c){
  return d;
 }
 
-//chemistry formula of the day grade 8
+
 // why is it NaN
 // use a pencil and paper to figure out why?
 for (let element=0; element<=3; element++) {
