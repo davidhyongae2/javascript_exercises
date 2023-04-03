@@ -13,7 +13,6 @@
 
 #### e.g.
 ![Figure 1](https://github.com/davidhyongae2/javascript_exercises/blob/main/Figure1.png) <br>
-![Figure 1](https://github.com/davidhyongae2/javascript_exercises/blob/main/Figure2.png) <br>
 
 
 
