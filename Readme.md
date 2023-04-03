@@ -1,4 +1,3 @@
-### Topics from "Go Math, Middle School Grade 6th, or 7th or 8th" California Go Math! Middle School Grade 8 Teacher Edition. <br>
          California Common Core Content Standards copyright © 2011 </br>
          copyright © 2015 by Houghton Mifflin Harcourt </br>
          Author: Edward B. Burger </br>
