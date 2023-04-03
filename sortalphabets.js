@@ -30,7 +30,6 @@ var sortcons = function(text) {
 }
 
 console.log(nums="abcdefghijkmnopqrstuvwxyz");
-//children song
 console.log("a b c song:",sortAlphabets(nums));
 console.log("vowel song:",sortvowel(nums));
 console.log("consonant song:",sortcons(nums));
