@@ -11,8 +11,6 @@
          copyright © 2022 David H. Gae some right reserved <br>
 
 
-#### e.g.
-![Figure 1](https://github.com/davidhyongae2/javascript_exercises/blob/main/Figure1.png) <br>
 
 
 
