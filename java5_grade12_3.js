@@ -11,7 +11,7 @@ function num(a) {
   return d;
 }
 
-//chemistry formula of the day grade 12
+
 //var element = [ 1, 2, 3, 4, 5, 6, 7]
 //console.log("answer:",numerator(element));
 for (let element = 1 ; element<=10; element++) {
