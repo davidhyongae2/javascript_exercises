@@ -9,7 +9,6 @@ function conversionT(c) {
   return d;
 }
 
-//formula of the day grade 8
  	// think why it stops at 3.
 	for ( let x=0; x<=3;x++) { 
 	//what is the answer???
