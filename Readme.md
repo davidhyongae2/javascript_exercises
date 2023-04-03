@@ -2,7 +2,6 @@
          copyright © 2015 by Houghton Mifflin Harcourt </br>
          Author: Edward B. Burger </br>
 
-#### My own Java Coding Exercises based on a grade 6th-12th book <br>
          Fundemental concepts from addition, substration, division,remainder, percentages.
          Order of operations: (), (x*y) or (x/y), +,-,
          Integers, properties of even and odd.
