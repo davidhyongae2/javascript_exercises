@@ -18,7 +18,7 @@ function conE(f) {
  return h;
 }
 
-//formula of the day grade 12
+
 for (let element=0; element<=1; element++) {
 	// order of operation, bit challenge. pencil and papers would be best to do this problem. 
 	console.log("which is the order of operation :",conE(element),conC(element));
