@@ -4,10 +4,13 @@ var sortAlphabets = function(text) {
 };
 
 var sortvowel = function(text) {
+	//note y is not a vowel, but placed in a different order sounds like i, e. 
+	//should w be a vowel?
     //const num2 = "abcywgoyw"  
     let new1 = {} 
     for ( let i = 0; i < text.length; i++) {
 	     for ( const j in text) {
+	
 	   	if ( text[j] == 'a' || text[j] == 'e' || text[j] == 'i' || text[j] == 'o' || text[j] == 'u' || text[j] == 'y' || text[j] == 'w') {
 			new1[text[j]] = text[j]
 			//console.log(new1)
@@ -23,7 +26,7 @@ var sortcons = function(text) {
 	   if( text[j] == 'b') {
 		new1[text[j]] = text[j]
 	   	}	
-	  //continue as your excerise. 	
+	  //continue as your exercise. 	
 	}
    }
   return new1
