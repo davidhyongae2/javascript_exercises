@@ -20,13 +20,22 @@ for (let element=0; element<10; element++) {
     }
 
 
-//how would you make it all odds?
+//How would you make it all odds?
+//Start with y = x
+//Try plugging in numbers in a graphing calculator
+//add an intercept?
+//add slope?
 for (let element=0; element<10; element++) {
-
+  //write the function here?
+  //Or read the code to find the answer?
+  
     }
-//how would you make it all even?
-for (let element=0; element<10; element++) {
 
+//How would you make it all even?
+for (let element=0; element<10; element++) {
+  //write the function here?
+  //Or read the code to find the answer?
+  
     }
 
 
